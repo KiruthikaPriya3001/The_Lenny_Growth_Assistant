@@ -461,6 +461,9 @@ LLM output is scanned for `[CHUNK:uuid]` references. Any chunk ID not present in
 ### Artifact security
 HTML artifacts are served from the backend API (not filesystem paths) and rendered inside `<iframe sandbox="allow-same-origin">`. This prevents XSS, DOM access, cookie theft, and script execution. The `allow-same-origin` attribute is included only to allow basic CSS @font-face loading; scripts remain blocked.
 
+🎥**Project Demo Link**
+https://www.loom.com/share/5cbc9c0270b9409284e95a421635dc81
+
 ---
 
 *Built as a Forward Deployed Engineer take-home for Oogway Labs — October 2026.*
