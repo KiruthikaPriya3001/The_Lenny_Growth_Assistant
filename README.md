@@ -131,7 +131,7 @@ OLLAMA_BASE_URL=http://localhost:11434
 OLLAMA_MODEL=gemma3:4b                # Any model you've pulled
 
 # ── Anthropic (Cloud) ─────────────────────────────────────────────
-ANTHROPIC_API_KEY=sk-ant-...          # Only needed if LLM_PROVIDER=anthropic
+ANTHROPIC_API_KEY=xxxxxxxxxxxxx          # Only needed if LLM_PROVIDER=anthropic
 ANTHROPIC_MODEL=claude-sonnet-4-5     # Or claude-3-5-haiku-20241022
 
 # ── Embeddings ────────────────────────────────────────────────────
